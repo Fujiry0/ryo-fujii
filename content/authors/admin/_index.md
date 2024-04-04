@@ -40,13 +40,13 @@ education:
   courses:
     - course: Ph.D. in Computer Science and Engineering
       institution: Keio University
-      year: Present
+      year: 2023-Present
     - course: M.S. in Computer Science and Engineering
       institution: Keio University
-      year: 2022
+      year: 2020-2022
     - course: B.S. in Computer Science and Engineering
       institution: Keio University
-      year: 2020
+      year: 2016-2020
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -114,12 +114,12 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Data scientist at IBM. I am also a Ph.D. student at at Keio University.
+Ryo Fujii is a data scientist at IBM. His focus at IBM lies in applying natural language processing algorithms including generative models and mathematical optimization to customer's businesses to solve their problems. He also works with [Hideo Saito](https://scholar.google.co.jp/citations?user=JU9x-bcAAAAJ&hl=en) and [Ryo Hachiuma](https://ryohachiuma.github.io/) at Keio University as a Ph.D. student. His research interest lies in trajectory prediction for autonomous systems and surgical video analysis.

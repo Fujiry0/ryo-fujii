@@ -7,7 +7,7 @@ tags:
 date: '2021-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://arxiv.org/abs/2304.03420'
+external_link: 'https://arxiv.org/abs/2203.07098'
 
 # image:
 #   caption: Photo by rawpixel on Unsplash
