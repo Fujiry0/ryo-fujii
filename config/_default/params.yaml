@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
+    description: 'Ryo Fujii is a data scientist at IBM. His focus at IBM lies in applying natural language processing algorithms including generative models and mathematical optimization to customer’s businesses to solve their problems. He also works with Hideo Saito and Ryo Hachiuma at Keio University as a Ph.D. student. His research interest lies in trajectory prediction for autonomous systems and surgical video analysis.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
